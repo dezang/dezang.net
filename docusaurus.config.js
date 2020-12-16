@@ -6,7 +6,7 @@ module.exports = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'dezang.net', // Usually your GitHub org/user name.
+  organizationName: 'dezang', // Usually your GitHub org/user name.
   projectName: 'dezang.net', // Usually your repo name.
   themeConfig: {
     navbar: {
@@ -98,7 +98,7 @@ module.exports = {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/dezang/dezang.net/edit/master/website/blog/',
+            'https://github.com/dezang/dezang.net/edit/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
