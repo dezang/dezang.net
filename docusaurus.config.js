@@ -95,6 +95,8 @@ module.exports = {
             'https://github.com/dezang/dezang.net/edit/master/website/',
         },
         blog: {
+          blogTitle: 'Dezang Blog',
+          blogDescription: 'Develop story',
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
