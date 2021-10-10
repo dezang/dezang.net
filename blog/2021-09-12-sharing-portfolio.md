@@ -14,7 +14,7 @@ tags: [invest, stock]
 저는 트레이더가 아닙니다. 종목을 기술적으로 분석하는 투자자도 아니죠. 경제 관련 뉴스 기사나 유튜브 영상을 통해 꾸준히 공부는 하고 있습니다만, 제가 관심있는 분야나 종목 안에서 검색하기 때문에 시야도 한정적입니다. 즉 **제가 앞으로 이 공간에 적는 어떠한 투자관련 글은 종목추천이나 투자 권유가 아님을 명시합니다.**
 
 ## 포트폴리오 공개
-![경제적 자유.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b4dd3281-4152-4c5c-910f-9934ef4219bd/%EA%B2%BD%EC%A0%9C%EC%A0%81_%EC%9E%90%EC%9C%A0_-_Google_Sheets_2021-09-12_12-18-37.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210912%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210912T095247Z&X-Amz-Expires=86400&X-Amz-Signature=c29ee7e21491bd43ce063b4b4f524e43a8a3764bf7224f9ed1e8ba0ed9275ae9&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25EA%25B2%25BD%25EC%25A0%259C%25EC%25A0%2581%2520%25EC%259E%2590%25EC%259C%25A0%2520-%2520Google%2520Sheets%25202021-09-12%252012-18-37.png%22)
+![경제적 자유.png](https://dezangnet.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb4dd3281-4152-4c5c-910f-9934ef4219bd%2F%EA%B2%BD%EC%A0%9C%EC%A0%81_%EC%9E%90%EC%9C%A0_-_Google_Sheets_2021-09-12_12-18-37.png?table=block&id=788dc731-3d2f-4cf3-9d05-0449d3ede78e&spaceId=7104e486-8d51-4b67-825a-091ed96349bf&width=2000&userId=&cache=v2)
 
 지금은 단순히 평가금액을 기반으로 한 비중 그래프지만 각 종목의 특성에 따라서도 분류할 예정입니다. 종목이 어떤 업종에 속해 있으며, 기업 라이프 사이클 중 어디에 위치하고 있는지 대략적으로는 알고 있지만 명확하지 않아서 이를 명확하게 파악하고 정리하는 작업을 우선적으로 해야합니다. 지속적으로 조금씩 업데이트할 생각입니다. 최종적으로는 [이 영상](https://www.youtube.com/watch?v=qtY1NOVQ6iE) 을 참고하여 전체 자산을 대시보드 형태로 보고자 합니다.
 
