@@ -18,7 +18,7 @@ const features = [
   },
   {
     title: 'Invest',
-    imageUrl: 'img/home/investment.svg',
+    imageUrl: 'img/home/Investment-Plan-inner.svg',
     description: (
       <>
         주식, 부동산, 그리고 암호화폐 이야기
