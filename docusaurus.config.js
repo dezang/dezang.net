@@ -1,6 +1,6 @@
 module.exports = {
   title: 'DEZANG.net',
-  tagline: 'develop story',
+  tagline: '꾸준함이 비범함을 만든다.',
   url: 'https://dezang.net',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -13,7 +13,7 @@ module.exports = {
       title: 'DEZANG.net',
       logo: {
         alt: 'Site Logo',
-        src: 'img/DZLogo.png',
+        src: 'img/apple-touch-icon.png',
       },
       items: [
         // {
@@ -81,7 +81,7 @@ module.exports = {
         //   ],
         // },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} dezang.net.`,
+      copyright: `Copyright © ${new Date().getFullYear()} DEZANG.net.`,
     },
   },
   presets: [
