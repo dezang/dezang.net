@@ -4,6 +4,10 @@ title: 도큐사우루스로 블로그 시작
 tags: [docusaurus]
 ---
 
+도큐사우루스를 사용한 블로그 개설 과정을 간단하게 적어봅니다.
+
+<!--truncate-->
+
 ## 설치하기
 https://v2.docusaurus.io/docs/installation/
 

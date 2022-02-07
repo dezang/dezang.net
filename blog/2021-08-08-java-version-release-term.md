@@ -2,9 +2,12 @@
 title: Java version 업그레이드 주기는?
 tags: [java]
 ---
-자바 8로 개발을 시작하고 지금까지 쭈욱 8로 개발을 하고 있습니다. 개인 토이 프로젝트는 예전부터 11로 작성해왔고 , 실무에서도 새롭게 시작하는 프로젝트들은 11을 사용하고 있지만, 자바 8로 이미 개발된 프로젝트들은 벌집을 건드리는 꼴이 될까봐 업그레이드 하지 못하고 있죠. 뭐 조만간은 반드시 해야 할 일이긴 합니다.
 
 최근 프로젝트를 생성하다보면 14버전이나 그 상위 버전을 선택할 수 있게 되는 경우가 있습니다. 잠깐 이 버전들은 얼마나 지원되는 것일까요? 최신 버전이라고 마냥 올리는게 정답일까요? LTS 가 되는 11 다음 버전은 몇 일까요? 함께 알아봅시다.
+
+<!--truncate-->
+
+자바 8로 개발을 시작하고 지금까지 쭈욱 8로 개발을 하고 있습니다. 개인 토이 프로젝트는 예전부터 11로 작성해왔고 , 실무에서도 새롭게 시작하는 프로젝트들은 11을 사용하고 있지만, 자바 8로 이미 개발된 프로젝트들은 벌집을 건드리는 꼴이 될까봐 업그레이드 하지 못하고 있죠. 뭐 조만간은 반드시 해야 할 일이긴 합니다.
 
 > Just before the release of JDK 9, Oracle made a number of announcements about how the development, distribution and updating of Java would work moving forward. Rather than the multi-year, feature-driven release cycle, there are now two releases of Java each year. The dates of these are fixed (March and September) and include only the features that are ready at that time. - [What Does Long-Term Support Mean for OpenJDK?](https://www.javacodegeeks.com/2019/07/long-term-support-mean-openjdk.html)
 

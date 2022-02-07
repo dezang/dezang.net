@@ -3,9 +3,9 @@ title: Spring Rest Docs & OAS - 시작하기
 tags: [api,restdoc,oas]
 ---
 
-## 개요
-
 지난 글 [Spring Rest Docs & OAS 의 필요성](https://dezang.net/blog/2021/08/22/spring-rest-docs-oas-01) 에서 이 둘의 조합이 왜 필요한지 알아보았습니다. 이제 간단한 샘플 코드를 통해 OAS 를 사용해서 API 문서를 만들어보겠습니다.
+
+<!--truncate-->
 
 본문에 등장하는 코드는 [깃허브](https://github.com/dezang/gs-spring/tree/main/restdoc-openapi)에서 확인할 수 있습니다.
 

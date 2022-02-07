@@ -3,6 +3,11 @@ slug: conventional-commits
 title: Conventional Commits
 tags: [git]
 ---
+
+커밋은 컨벤셔널 커밋으로!
+
+<!--truncate-->
+
 ```
 기능(feat): 새로운 기능을 추가
 버그(fix): 버그 수정
