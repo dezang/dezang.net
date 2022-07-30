@@ -1,5 +1,4 @@
 ---
-slug: post_template
 title: 트러블 슈팅 템플릿
 tags: [troubleshooting]
 ---
